@@ -1,4 +1,4 @@
-# CS271 - Mobile Development
+# CS492 - Mobile Development
 
 This is my mobile development coursework and assignments, built using **Kotlin** and **Android Studio**.
 
