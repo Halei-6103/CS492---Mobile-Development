@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    
+    <!-- Assignment Course -->
+    <string name="course_assignment_title">Ian Hale</string>
+    
+    <!-- CS Course Titles -->
+    <string name="course_cs161_title">Introduction to Computer Science I</string>
+    <string name="course_cs162_title">Introduction to Computer Science II</string>
+    <string name="course_cs225_title">Discrete Structures in Computer Science</string>
+    <string name="course_cs261_title">Data Structures</string>
+    <string name="course_cs271_title">Computer Architecture and Assembly Language</string>
+    <string name="course_cs290_title">Web Development</string>
+    <string name="course_cs325_title">Analysis of Algorithms</string>
+    <string name="course_cs340_title">Introduction to Databases</string>
+    <string name="course_cs344_title">Operating Systems I</string>
+    <string name="course_cs361_title">Software Engineering I</string>
+    <string name="course_cs362_title">Software Engineering II</string>
+    <string name="course_cs467_title">Online Capstone Project</string>
+</resources>

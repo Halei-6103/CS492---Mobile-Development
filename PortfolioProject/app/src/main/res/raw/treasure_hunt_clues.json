@@ -1,0 +1,18 @@
+{
+  "clues": [
+    {
+      "clueText": "Where students gather to study and borrow books. Find the building with the quiet reading rooms.",
+      "hintText": "Look for a building named after a famous library or knowledge.",
+      "latitude": 47.6553,
+      "longitude": -122.3035,
+      "locationInfo": "You found the campus library! This is a great spot for studying and finding resources for your courses."
+    },
+    {
+      "clueText": "The heart of campus where paths cross. Find the open space where students meet between classes.",
+      "hintText": "It's often a square or plaza in the middle of campus.",
+      "latitude": 47.6545,
+      "longitude": -122.3042,
+      "locationInfo": "You reached the central plaza! Congratulations — you've completed the treasure hunt. This is the main gathering spot on campus."
+    }
+  ]
+}
