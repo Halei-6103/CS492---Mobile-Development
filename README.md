@@ -6,3 +6,5 @@ This is my mobile development coursework and assignments, built using **Kotlin**
 
 - **Portfolio App** — a personal portfolio project built as part of coursework.
 - **Coffee Shop App** — a small personal project exploring app design and functionality for a coffee shop.
+- **Assignments 1 - 5** — simple mobile projects built following curriculum.
+
